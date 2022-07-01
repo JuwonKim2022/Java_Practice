@@ -11,6 +11,8 @@ public class FloatDoubleEx {
 		double var3 = 0.123456789012321232343232323;
 		float var4 = 0.123456789012321232343232323F;
 		
+		System.out.println(var1);
+		System.out.println(var2);
 		System.out.println(var3);
 		System.out.println(var4);
 		
