@@ -1,4 +1,4 @@
-package sec04.ex04_bitreverse;
+package sec03.ex04_bitreverse;
 
 public class BitRevOperEx {
 
